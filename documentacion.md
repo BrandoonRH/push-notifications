@@ -1,5 +1,3 @@
----
-
 ## 📚 Documentación y recursos oficiales
 
 ### 📖 Guía oficial de Push Notifications con Expo
